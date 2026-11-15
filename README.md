@@ -1,3 +1,29 @@
+# design.md
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用 DESIGN.md 向编码 Agent 描述视觉识别系统的格式规范，提供持久结构化理解。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # DESIGN.md
 
 A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
